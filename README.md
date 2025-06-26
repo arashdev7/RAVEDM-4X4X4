@@ -32,7 +32,7 @@ or some other solution. I will explain my project below.
 - A breadboard and wires( a circuit mode can also be used to save space and to make it look asthetically cooler )
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/npNQRiVDQKI/0.jpg)](https://www.youtube.com/watch?v=npNQRiVDQKI)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/rdp_NPq-_nU/0.jpg)](https://www.youtube.com/watch?v=rdp_NPq-_nU)
 
 ### Process
 - Each LED in a height layer is attatched to the other through its ground, thus making the ground for each layer the same.These went to the pins 10-13 on the MEGA  
@@ -56,10 +56,5 @@ or some other solution. I will explain my project below.
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
